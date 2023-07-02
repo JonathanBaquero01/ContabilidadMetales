@@ -1,0 +1,10 @@
+Contabilidad Metales
+
+Numero de cuenta: Cuenta 122
+
+chatarra 10.0X900=9,000
+chatarra 0.5X900=450
+chatarra 20.0X900=18,000
+cobre 10.0X30,000=300,000
+cobre 44.0X30,000=1,320,000
+Total cuenta: 1,320,000
